@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/org.mar9000.mps.DOT/org.mar9000.mps.DOT.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/org.mar9000.mps.DOT/sandbox/org.mar9000.mps.DOT.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/org.mar9000.pemap/org.mar9000.pemap.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/org.mar9000.pemap/runtime/org.mar9000.pemap.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/org.mar9000.pemap/sandbox/org.mar9000.pemap.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/org.mar9000.pe.import/org.mar9000.pe.import.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/org.mar9000.pemap.plugin/org.mar9000.pemap.plugin.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
